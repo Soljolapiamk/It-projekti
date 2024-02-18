@@ -1,1 +1,5 @@
 "# Testataan Gitin toimintaa" 
+# Testataan miten VS Coden Live Share toimii
+# Testataan saadaanko muutos näkyville myös GitHubin desktopille
+# Testi
+# Testi osa 10
